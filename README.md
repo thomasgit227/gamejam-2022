@@ -1,4 +1,3 @@
 # gamejam-2022
-The Theme is Food
-LGTM
-LGTM
+LGTM ^ 2
+Chad's first *bootscrap* application
