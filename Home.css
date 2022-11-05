@@ -1,0 +1,43 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  width: 100vw;
+  height: 100vh;
+
+  background-color: #cdc7e5;
+}
+
+.title {
+  width: 100%;
+
+  font-size: 3rem;
+  text-align: center;
+
+  background-color: #84b082;
+}
+
+.subtitle {
+  width: 100%;
+
+  font-size: 1.5rem;
+  text-align: center;
+
+  background-color: #7776bc;
+}
+
+.content {
+  width: 100%;
+
+  display: flex;
+  justify-content: center;
+}
+
+.start-button,
+.start-button:hover,
+.start-button:active {
+  margin: 1rem;
+
+  color: black !important;
+}
